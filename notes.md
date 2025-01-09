@@ -8,3 +8,5 @@
 | wo de chang zi li you chong zi |                  |
 | 放在桌子上              | Put on table            |
 | fang zai zhuo zi shang  |                         |
+| 我们去商店吧             | Let's go to the shop    |
+| wo men qu shang dien ba |                        |
